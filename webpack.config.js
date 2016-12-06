@@ -2,7 +2,7 @@
 //var providePlugin = new webpack.ProvidePlugin({$: 'jquery',jQuery: 'jquery','window.jQuery':'jquery'});
 module.exports = {
     entry: {
-        index: './src/js//index.js',
+        index: './src/js/index.js',
     },
     output: {
        path: './static/',
